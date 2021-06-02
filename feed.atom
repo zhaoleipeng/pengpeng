@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T02:52:45.880Z</id>
+    <id>urn:2021-06-02T02:55:03.173Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T02:52:45.880Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T02:55:03.173Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 160 期）：中年码农的困境]]></title>
