@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T02:30:21.049Z</id>
+    <id>urn:2021-06-04T01:57:37.199Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T02:30:21.049Z</updated>
+    <updated>2021-06-04T01:57:37.199Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 161 期）：再见了，学术硕士]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html"/>
+        <updated>2021-06-04T00:29:26.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 160 期）：中年码农的困境]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html</id>
@@ -21,16 +31,6 @@
         <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html"/>
         <updated>2021-05-21T00:17:00.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国经济的数字逻辑]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html"/>
-        <updated>2021-05-19T12:54:48.000Z</updated>
-        <summary type="html"><![CDATA[重庆市前市长黄奇帆退休以后，受聘担任复旦大学特聘教授，定期给师生做讲座，介绍他对中国经济的看法。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
