@@ -6,12 +6,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
+          "publishedOn": "2021-06-18T00:15:03.000Z",
+          "wordCount": 380,
+          "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
           "publishedOn": "2021-06-11T00:15:31.000Z",
-          "wordCount": 863,
+          "wordCount": 866,
           "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
         },
         {
@@ -20,17 +29,8 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
           "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 1588,
+          "wordCount": 1599,
           "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
-          "publishedOn": "2021-05-28T00:20:22.000Z",
-          "wordCount": 1048,
-          "title": "科技爱好者周刊（第 160 期）：中年码农的困境"
         }
       ]
     }
