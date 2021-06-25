@@ -6,12 +6,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
+          "publishedOn": "2021-06-25T00:28:30.000Z",
+          "wordCount": 445,
+          "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
           "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 745,
+          "wordCount": 750,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         },
         {
@@ -22,15 +31,6 @@
           "publishedOn": "2021-06-11T00:15:31.000Z",
           "wordCount": 886,
           "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
-          "publishedOn": "2021-06-04T00:29:26.000Z",
-          "wordCount": 1621,
-          "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士"
         }
       ]
     }
