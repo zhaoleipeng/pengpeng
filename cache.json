@@ -6,12 +6,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "author": null,
+          "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "publishedOn": "2021-06-28T01:10:50.000Z",
+          "wordCount": 480,
+          "title": "程序员的酒后真言"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
           "publishedOn": "2021-06-25T00:28:30.000Z",
-          "wordCount": 931,
+          "wordCount": 952,
           "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较"
         },
         {
@@ -22,15 +31,6 @@
           "publishedOn": "2021-06-18T00:15:03.000Z",
           "wordCount": 769,
           "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
-          "publishedOn": "2021-06-11T00:15:31.000Z",
-          "wordCount": 888,
-          "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏"
         }
       ]
     }
