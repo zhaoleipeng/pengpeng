@@ -6,12 +6,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
+          "publishedOn": "2021-07-02T00:19:51.000Z",
+          "wordCount": 461,
+          "title": "科技爱好者周刊（第 165 期）：全端 App 的时代"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "author": null,
           "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "publishedOn": "2021-06-28T01:10:50.000Z",
-          "wordCount": 554,
+          "wordCount": 591,
           "title": "程序员的酒后真言"
         },
         {
@@ -20,17 +29,8 @@
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
           "publishedOn": "2021-06-25T00:28:30.000Z",
-          "wordCount": 981,
+          "wordCount": 983,
           "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html",
-          "publishedOn": "2021-06-18T00:15:03.000Z",
-          "wordCount": 769,
-          "title": "科技爱好者周刊（第 163 期）：你的城市有多少张病床？"
         }
       ]
     }

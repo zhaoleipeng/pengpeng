@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T01:01:01.552Z</id>
+    <id>urn:2021-07-02T00:58:03.624Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T01:01:01.552Z</updated>
+    <updated>2021-07-02T00:58:03.624Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 165 期）：全端 App 的时代]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html"/>
+        <updated>2021-07-02T00:19:51.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序员的酒后真言]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html</id>
@@ -20,16 +30,6 @@
         <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html</id>
         <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html"/>
         <updated>2021-06-25T00:28:30.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 163 期）：你的城市有多少张病床？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html"/>
-        <updated>2021-06-18T00:15:03.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
