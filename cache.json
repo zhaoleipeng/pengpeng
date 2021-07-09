@@ -6,12 +6,21 @@
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
         {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "publishedOn": "2021-07-09T00:45:10.000Z",
+          "wordCount": 429,
+          "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？"
+        },
+        {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "author": null,
           "description": "这里记录每周值得分享的科技内容，周五发布。...",
           "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "publishedOn": "2021-07-02T00:19:51.000Z",
-          "wordCount": 1075,
+          "wordCount": 1088,
           "title": "科技爱好者周刊（第 165 期）：全端 App 的时代"
         },
         {
@@ -20,17 +29,8 @@
           "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
           "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
           "publishedOn": "2021-06-28T01:10:50.000Z",
-          "wordCount": 721,
+          "wordCount": 773,
           "title": "程序员的酒后真言"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html",
-          "publishedOn": "2021-06-25T00:28:30.000Z",
-          "wordCount": 1007,
-          "title": "科技爱好者周刊（第 164 期）：培训班 vs 大学，求职成功率比较"
         }
       ]
     }
