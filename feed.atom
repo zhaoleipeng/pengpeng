@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T00:59:58.543Z</id>
+    <id>urn:2021-07-16T00:59:55.097Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:59:58.543Z</updated>
+    <updated>2021-07-16T00:59:55.097Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 167 期）：广告拦截器太过分了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html"/>
+        <updated>2021-07-16T00:45:10.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 166 期）：视频学习胜过读书吗？]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html</id>
@@ -21,16 +31,6 @@
         <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html"/>
         <updated>2021-07-02T00:19:51.000Z</updated>
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员的酒后真言]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html"/>
-        <updated>2021-06-28T01:10:50.000Z</updated>
-        <summary type="html"><![CDATA[美国最大的论坛 Reddit，最近有一个热帖。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
         </author>
