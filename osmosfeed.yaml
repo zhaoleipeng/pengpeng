@@ -1,2 +1,8 @@
 sources:
   - href: http://www.ruanyifeng.com/blog/atom.xml
+  - href: http://coolshell.cn/feed
+  - href: http://www.raychase.net/feed
+  - href: http://www.nginx.cn/feed
+  - href: http://www.importnew.com/feed
+  - href: blog.risingstack.com/rss
+  - href: nodejs.org/en/feed/blog.xml
